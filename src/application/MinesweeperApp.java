@@ -13,7 +13,7 @@ public class MinesweeperApp {
 		Console.println("There are that many mines surrounding this space.\n");
 		Console.println("Flag a space by entering \"10\" for the dig column and choosing a column and row to flag.");
 		Console.println("... or you detonate a mine.\n");
-		Console.println("Let's play!\n");
+		Console.println("Let's get started!\n");
 		boolean cont = true;
 		while (cont == true) {
 			GameBoard gameBoard = new GameBoard();
